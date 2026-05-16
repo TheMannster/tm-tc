@@ -99,7 +99,7 @@ This resource is based on the ABS and Traction Control systems from:
 
 ## License
 
-This resource is released under the MIT License, same as the original script.
+This resource is released under the [MIT License](LICENSE), same lineage as upstream [GES-VehicleHUD](https://github.com/GESUS/GES-VehicleHUD).
 
 ## Support
 
